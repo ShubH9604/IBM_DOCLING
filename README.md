@@ -1,6 +1,6 @@
 ## 📄 IBM DocLing
 
-We integrated [IBM DocLing](https://github.com/IBM/DocLing), an open-source document understanding tool, to extract structured data from PDFs and image-based documents. DocLing supports multiple backends and enrichment modules for:
+We integrated [IBM DocLing](https://docling-project.github.io/docling/), an open-source document understanding tool, to extract structured data from PDFs and image-based documents. DocLing supports multiple backends and enrichment modules for:
 
 - Layout understanding
 - OCR (Optical Character Recognition)
